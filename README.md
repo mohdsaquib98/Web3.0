@@ -23,8 +23,7 @@ Send and Receive ETH: CryptoHub allows users to send and receive ETH directly fr
 
 Market Rates: The application provides real-time market rates, allowing users to stay updated on the current value of ETH.
 
-![MarketRates](https://i.ibb.co/rsCvzYT/Screenshot-2023-05-27-at-3-57-05-PM.png)
-
+![MarketRates](https://i.ibb.co/Fq0DnTP/Screenshot-2023-05-27-at-4-10-15-PM.png)
 
 # Getting Started
 To run CryptoHub locally, follow these steps:
