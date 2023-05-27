@@ -1,11 +1,9 @@
 
 # CryptoHub - Web 3.0 Blockchain Application
 
-
+![CryptoHub](https://i.ibb.co/8b9Sz8H/Screenshot-2023-05-27-at-4-08-56-PM.png)
 
 CryptoHub is a Web 3.0 blockchain application that allows users to connect to their MetaMask wallet, send and receive ETH, and view current market rates.
-
-![CryptoHub](https://i.ibb.co/Bzk6rCZ/crypthub.png)
 
 # Technologies Used
 JavaScript: The primary programming language used for developing the frontend of CryptoHub.
