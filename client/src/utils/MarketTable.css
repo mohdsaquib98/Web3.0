@@ -1,0 +1,31 @@
+.market-table-container {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .market-table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .market-table th,
+  .market-table td {
+    border: 1px solid white;
+    padding: 8px;
+  }
+  
+  .market-table th {
+    background-color: #333;
+  }
+  
+  .market-table th,
+  .market-table td {
+    color: white;
+  }
+  
+  .market-table tbody tr:nth-child(even) {
+    background-color: #222;
+  }
+  
